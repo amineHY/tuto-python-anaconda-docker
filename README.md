@@ -3,7 +3,6 @@
 Quick tutorial for packaging Python project using Anaconda with Docker
 
 I write this quick tutorial for those who want to create a python app with anaconda packages and package the app using Docker.
-amineHY/tuto-python-anaconda-docker
 
 A project to quickly setup a python project using anaconda packages and Docker GitHub is home to over 50 million…
 github.com
@@ -120,9 +119,6 @@ This should outputs:
     Numpy version is  1.19.4
 
 There you have it.
-
-You can find all the files on Github:
-[amineHY/tuto-python-anaconda-docker](amineHY/tuto-python-anaconda-docker)
 
 PS: If you encounter a problem please create an issue on GitHub or comment below.
 Resources
