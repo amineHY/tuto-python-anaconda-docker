@@ -1,0 +1,13 @@
+name: app
+
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - flask
+  - gunicorn
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip:
+      - -r file:requirements.txt
