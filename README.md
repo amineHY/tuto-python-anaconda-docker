@@ -1,4 +1,4 @@
-# How to Setup A Python Project with Anaconda in Docker
+# How to Package A Python Application using Anaconda and Docker
 
 Quick tutorial for packaging Python project using Anaconda with Docker
 
