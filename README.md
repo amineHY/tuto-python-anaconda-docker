@@ -90,9 +90,9 @@ ENTRYPOINT ["conda", "run", "--name", "app", "python", "main.py"]
 
 - For simplicity we start from the base image \* of miniconda3 (line1)
 - Copy the files from the folder to docker \* (line 6)
-- Create a conda environment and install the _ in it the packages defined in YAML file _ (line 9)
-- Edit the shell command so we can launch _ python scripts from within the newly _ created conda environment (line 11)
-- Define an entry-point for the docker image _ such that it execute the main.py python _ script of the application (line 13)
+- Create a conda environment and install the in it the packages defined in YAML file (line 9)
+- Edit the shell command so we can launch python scripts from within the newly created conda environment (line 11)
+- Define an entry-point for the docker image such that it execute the main.py python script of the application (line 13)
 
 ## Build a docker image
 
